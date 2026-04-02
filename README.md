@@ -3,6 +3,11 @@
 ![React](https://img.shields.io/badge/React-19.1-blue)
 ![Vite](https://img.shields.io/badge/Vite-7.1-646CFF)
 ![License](https://img.shields.io/badge/license-MIT-green)
+![Deploy](https://img.shields.io/badge/deploy-success-brightgreen)
+
+## 🌐 Aplicação Online
+
+**Acesse a aplicação:** [https://cardioia-app.vercel.app](https://cardioia-app.vercel.app)
 
 Aplicação web desenvolvida para análise de dados cardiológicos de pacientes utilizando inteligência artificial simulada. Projeto educacional da FIAP para demonstrar conceitos de desenvolvimento web moderno com React e Vite.
 
