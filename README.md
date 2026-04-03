@@ -1,35 +1,35 @@
-# 🫀 CardioIA - Sistema de Diagnóstico Cardiológico com IA
+# CardioIA - Sistema de Diagnóstico Cardiológico com IA
 
 ![React](https://img.shields.io/badge/React-19.1-blue)
 ![Vite](https://img.shields.io/badge/Vite-7.1-646CFF)
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Deploy](https://img.shields.io/badge/deploy-success-brightgreen)
 
-## 🌐 Aplicação Online
+## Aplicação Online
 
 **Acesse a aplicação:** [https://cardioia-app.vercel.app](https://cardioia-app.vercel.app)
 
 Aplicação web desenvolvida para análise de dados cardiológicos de pacientes utilizando inteligência artificial simulada. Projeto educacional da FIAP para demonstrar conceitos de desenvolvimento web moderno com React e Vite.
 
-## 📋 Sobre o Projeto
+## Sobre o Projeto
 
 O **CardioIA** é uma aplicação de demonstração que simula um sistema de diagnóstico cardiológico inteligente. A aplicação permite:
 
-- 📝 Cadastro de dados de pacientes
-- 🩺 Análise de pressão arterial
-- 🤖 Diagnóstico simulado por IA
-- 📊 Classificação de risco cardiovascular
-- 💡 Recomendações médicas automatizadas
-- 📱 Interface responsiva e moderna
+- Cadastro de dados de pacientes
+- Análise de pressão arterial
+- Diagnóstico simulado por IA
+- Classificação de risco cardiovascular
+- Recomendações médicas automatizadas
+- Interface responsiva e moderna
 
-## 🚀 Tecnologias
+## Tecnologias
 
 - **React 19.1** - Biblioteca JavaScript para interfaces
 - **Vite 7.1** - Build tool e dev server
 - **CSS3** - Estilização moderna
 - **ESLint** - Linting e qualidade de código
 
-## 📦 Instalação
+## Instalação
 
 ### Pré-requisitos
 
